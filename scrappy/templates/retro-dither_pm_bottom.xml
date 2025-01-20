@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<artwork>
+    <output type="cover" width="720" height="720">
+        <layer resource="screenshot" height="720" align="center" valign="middle" opacity="50">
+        </layer>
+        <mask file="mask/3px_dither_720_pm.png"/>
+        <layer resource="cover" width="210" x="-16" y="-70" valign="bottom" align="right">
+            <rounded radius="7"/>
+            <stroke width="5" red="128" green="128" blue="128"/>
+            <shadow distance="5" softness="5" opacity="70"/>
+        </layer>
+    </output>
+</artwork>
