@@ -4,7 +4,7 @@
         <layer resource="screenshot" height="620" y="-8" align="right" valign="middle" opacity="50">
         </layer>
         <mask file="mask/3px_dither_720_pm.png"/>
-        <layer resource="cover" width="210" x="-10" y="-70" valign="bottom" align="right">
+        <layer resource="cover" width="242" y="-60" valign="bottom" align="right">
         </layer>
     </output>
 </artwork>
