@@ -4,7 +4,7 @@ This is a set of scripts that will help control temperature (screen warmth) auto
 
 ### Installation
 
-Install [DayNightMode](day-night/DayNightMode.zip) through archive manager. This will install the following features:
+Install [DayNightMode](https://github.com/plaidman/cube-xx/raw/refs/heads/main/day-night/DayNightMode.zip) through archive manager. This will install the following features:
 
 - manual toggle between night and day mode in tasks
     - color will instantly change
